@@ -1,5 +1,5 @@
 <h4>
-DerZine. Одностраничник.
+3d Sneaker OnePage
 </h4>
 
 ---
